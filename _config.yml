@@ -1,6 +1,6 @@
 name: fastbraces
 favicon: null
-layout_spectrum: 0.70919
+layout_spectrum: 0.47609
 typography_spectrum: 0.5485015439335257
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#ecccc7'
     - '#ffffff'
-    - '#8d8a98'
-    - '#532016'
-  brandStrength: 0.44251404399983585
+    - '#251716'
+    - '#f1cfbb'
+    - '#808080'
+    - '#ff0000'
+  brandStrength: 0.125
   lightness: 0.513932267203927
-  saturation: 0.302622533403337
-  rhythmicContrast: 0.24124410026706755
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
